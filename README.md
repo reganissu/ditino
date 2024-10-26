@@ -2,7 +2,7 @@
 
 This repository contains the example program to use your Ditino shield.
 
-![Ditino demo](./ditino.mp4)
+https://github.com/user-attachments/assets/75744881-a83e-4b6f-8f4a-8e8f81cb46c6
 
 # Compilation and upload
 
